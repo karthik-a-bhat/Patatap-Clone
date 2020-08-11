@@ -15,7 +15,7 @@ Double-click the "index.html" file after unzipping the downloaded zip file.
 
 * [Paper.js] (http://paperjs.org/) - Vector Graphics Scripting
 * [Howler.js] (https://howlerjs.com/) - Javascript audio library
-* [Javascript] (https://www.javascript.com/) - High-level, interpreted programming language
+* [Javascript] (https://en.wikipedia.org/wiki/JavaScript) - High-level, interpreted programming language
 
 ## Authors
 
