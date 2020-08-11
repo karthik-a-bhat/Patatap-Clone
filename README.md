@@ -13,8 +13,8 @@ Double-click the "index.html" file after unzipping the downloaded zip file.
 
 ## Built With
 
-* [Paper.js] (https://github.com/paperjs/paper.js/issues) - Vector Graphics Scripting
-* [Howler.js] (https://github.com/goldfire/howler.js/tree/master/examples) - Javascript audio library
+* [Paper.js] (http://paperjs.org/) - Vector Graphics Scripting
+* [Howler.js] (https://howlerjs.com/) - Javascript audio library
 * [Javascript] (https://www.javascript.com/) - High-level, interpreted programming language
 
 ## Authors
